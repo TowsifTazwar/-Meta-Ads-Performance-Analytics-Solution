@@ -44,6 +44,10 @@ The dashboard includes detailed audience segmentation by:
 - **Age Group**: Identify which age groups are most engaged with the ads.
 - **Country**: Visualize engagement across different countries, with color-coded maps showing where the majority of interactions are coming from.
 
+**Geographic Distribution**:
+
+**Map Visualizations**: Display performance across regions, with bubble size or color intensity representing key metrics like engagement and impressions.
+
 ### 4. **Time-Based Analysis**
 The dashboard provides insights into:
 - **Weekly Trends**: How engagement varies across the weeks.
