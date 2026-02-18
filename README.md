@@ -55,7 +55,7 @@ The dashboard provides insights into:
 ## Link to Published Power BI Dashboard
 The **Meta Ads Performance Dashboard** is published on **Power BI Web**. You can access and interact with the live dashboard through the following link:
 
-[**Meta Ads Performance Dashboard (Power BI Web)**]([your-powerbi-dashboard-link-here](https://app.powerbi.com/view?r=eyJrIjoiODI1YWJhMmUtNzE2Yi00NTdkLWI5ZTgtMmQ3ZmZkYTIzODBjIiwidCI6IjBiNzk5OWFlLTgzOWYtNDUzOC1iZDk0LTkzMWMzNDY4NmExYyIsImMiOjEwfQ%3D%3D)
+[**Meta Ads Performance Dashboard (Power BI Web)**](https://app.powerbi.com/view?r=eyJrIjoiODI1YWJhMmUtNzE2Yi00NTdkLWI5ZTgtMmQ3ZmZkYTIzODBjIiwidCI6IjBiNzk5OWFlLTgzOWYtNDUzOC1iZDk0LTkzMWMzNDY4NmExYyIsImMiOjEwfQ%3D%3D)
 
 Please note that the link above will redirect you to the interactive Power BI dashboard. You can explore the visualizations and filter data to gain insights into various KPIs, ad performance, and audience behavior.
 
