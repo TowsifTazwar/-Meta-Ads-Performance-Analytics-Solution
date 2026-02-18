@@ -73,6 +73,64 @@ Below is a snapshot of the **Meta Ads Performance Dashboard**:
 
 ---
 
+## Visualizations and Their Purpose
+### Target Gender – Donut Chart
+
+**Description**: A donut chart visualizing the engagement of ads split by gender.
+
+**Purpose**: To determine which gender (male, female, or others) is more engaged with the ad campaigns.
+
+**Why**: This insight helps target specific gender demographics more effectively.
+
+### Target Age Group – Bar Chart
+
+**Description**: A bar chart displaying engagement across different age groups.
+
+**Purpose**: To identify which age group responds most effectively to the campaigns.
+
+**Why**: Knowing the best-performing age group allows marketers to fine-tune targeting strategies.
+
+### Country – Map Visualization
+
+**Description**: A map that visualizes campaign performance by country, with varying bubble sizes or colors to represent key metrics.
+
+**Purpose**: To understand which regions or countries provide the highest engagement.
+
+**Why**: Helps marketers focus on high-engagement areas while also targeting premium markets with stronger purchasing power.
+
+### Calendar Month – Calendar Heat Map
+
+**Description**: A calendar heat map plotting performance on a monthly level based on event timestamps.
+
+**Purpose**: To detect seasonal trends and identify peak ad months.
+
+**Why**: This feature helps track the impact of promotions and plan future campaigns accordingly.
+
+### Weekly Trend – Stacked Column by Ad Type
+
+**Description**: A stacked column chart showing weekly performance trends, broken down by ad type.
+
+**Purpose**: To compare the performance of different ad formats (video, stories, image, etc.) over time.
+
+**Why**: Identifying the best-performing ad types by week enables budget reallocation toward high-performing formats.
+
+### Hourly Trend – Area Chart
+
+**Description**: An area chart showing engagement by hour of the day.
+
+**Purpose**: To identify when user activity is highest and lowest throughout the day.
+
+**Why**: Optimizes the timing of ad deliveries, focusing on peak hours for maximum impact.
+
+### Ad Type – Matrix
+
+**Description**: A matrix visualization comparing ad types (carousel, image, stories, video) and possibly further breaking it down by platform (Facebook vs. Instagram).
+
+**Purpose**: To compare ad performance across different formats and platforms.
+
+**Why**: Helps identify which ad types work best on each platform, guiding marketers to optimize their campaigns.
+
+
 # Insights and Recommendations
 
 Based on the analysis performed through the dashboard, the following recommendations are provided for optimizing Meta ads:
