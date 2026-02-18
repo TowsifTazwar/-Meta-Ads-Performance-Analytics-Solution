@@ -48,7 +48,7 @@ The dashboard includes detailed audience segmentation by:
 The dashboard provides insights into:
 - **Weekly Trends**: How engagement varies across the weeks.
 - **Hourly Trends**: Peak engagement times throughout the day.
-- **Calendar View**: A heat map showing which dates had the highest engagement.
+- **Calendar View**: A heat map showing which dates had the highest engagement and other KPI's.
 
 ---
 
